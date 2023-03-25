@@ -92,7 +92,7 @@ main {
     align-self: flex-end;
 }
 .location p {
-    line-height: 0.5;
+    line-height: 1;
 }
 .kindabig {
     font-size: 1.4rem;
